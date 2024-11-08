@@ -22,5 +22,7 @@
 3. 遊戲提醒
 手動存檔：請在退出遊戲前記得手動存檔，因為遊戲中並沒有自動存檔功能。確保你的進度已經保存，避免資料丟失。
 
+遊戲載點：https://drive.google.com/file/d/1xdzp7GMZb4jLLOGj8996Q_niLMcrajyH/view?usp=sharing
+
 感謝您選擇《詐-Trap》，我們誠摯希望您能享受這段互動冒險！
 如有任何問題、建議或合作邀約，請隨時聯繫我們，祝您遊戲愉快！
