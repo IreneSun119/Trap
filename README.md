@@ -28,7 +28,7 @@
 手動存檔：本遊戲可能會出現一些已知和未知的BUG。為了確保你的遊戲體驗順利，請善用存檔功能，尤其在關鍵進度之前，記得手動存檔，避免資料丟失。
 自動存檔提醒：本遊戲無自動存檔功能，請在退出遊戲前確認進度已保存。
 
-遊戲載點：https://drive.google.com/file/d/1PptaJa4gOZb6H3cp4O4rKRShetOHgF0q/view?usp=drive_link
+遊戲載點：https://drive.google.com/drive/folders/1LqjOHTPFzWVC8eXS1gcakvTTIMgPMxKH?usp=drive_link
 
 感謝您選擇《詐-Trap》，我們誠摯希望您能享受這段互動冒險！
 如有任何問題、建議或合作邀約，請隨時聯繫我們，祝您遊戲愉快！
